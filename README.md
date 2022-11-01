@@ -6,6 +6,8 @@
 # [Project 2 Avocado Prices](https://github.com/tsmoll/avocado-prices/blob/main/Lesson%204%20Python.ipynb)
 - This was a project where I analyzed prices for avocados
 
+![image](https://user-images.githubusercontent.com/94031518/199341970-d273490e-b217-46c4-9914-c5465b872c77.png)
+
 # [Project 3 Diamonds Project](https://github.com/tsmoll/Diamonds/blob/main/Lesson%201%20Hands%20On.ipynb)
 - This was another project that I did during my coursework
 
