@@ -4,4 +4,4 @@
 - This is a beginner project that I worked on during my Data Science Course work
 
 # [Project 2 Alice in Wonderland](https://github.com/tsmoll/Lesson-5/blob/main/Lesson5%20Hands%20On.ipynb)
--This is a project where I removed the stopwords
+- This is a project where I removed the stopwords
