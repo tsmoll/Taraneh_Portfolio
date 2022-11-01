@@ -16,7 +16,9 @@
 
 ![](https://user-images.githubusercontent.com/94031518/199325006-4da6f5c9-2436-4e69-baba-b8ab7697dac6.png)
 
-# SQL Project
+# Project 10
+- This was a Motor Vehicle Analysis Project
+ 
 
 
 # [Exploratory Data Analysis of COVID](https://github.com/tsmoll/Covid-eda/blob/main/COVID%20Project(1).ipynb)
