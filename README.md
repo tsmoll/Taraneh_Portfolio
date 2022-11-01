@@ -11,6 +11,9 @@
 
 ![](https://user-images.githubusercontent.com/94031518/199312719-ec219fbf-cd20-4253-aa70-c9e2e74b362f.png)
 
+# [Project 4 Intermediate Statistics Project](https://github.com/tsmoll/Intermediate-Statistics/blob/main/Final%20Project%20in%20Python%20Int%20Statistics%20(1).ipynb)
+- This was a project where we used intermediate statistics and various datasets in my data science coursework
+
 # [Exploratory Data Analysis of COVID](https://github.com/tsmoll/Covid-eda/blob/main/COVID%20Project(1).ipynb)
 - This is an exploratory project that I did on my own that was not part of any school project
 
