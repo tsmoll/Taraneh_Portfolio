@@ -25,6 +25,9 @@
 # [Programming Project in Python](https://github.com/tsmoll/Program-in-Python/blob/main/main.py)
 # [Part 2 of Programming Project in Python](https://github.com/tsmoll/Program-in-Python/blob/main/Lesson%2010%20Hands%20On.py)
 
+# Group Project Case Study
+- This was a final group project based on public datasets of Seattle Fremont Bridge Bicycle Traffic and Ballard Bridge Bicycle Traffic
+
 # [Exploratory Data Analysis of COVID](https://github.com/tsmoll/Covid-eda/blob/main/COVID%20Project(1).ipynb)
 - This is an exploratory project that I did on my own that was not part of any school project
 
