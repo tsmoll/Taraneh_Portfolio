@@ -19,6 +19,9 @@
 # [Project](https://github.com/tsmoll/Dogs/blob/main/main.py)
 - Basic Python Code about Naming dogs
 
+# [Programming Project in Python](https://github.com/tsmoll/Program-in-Python/blob/main/main.py)
+# [Part 2 of Programming Project in Python]
+
 # [Exploratory Data Analysis of COVID](https://github.com/tsmoll/Covid-eda/blob/main/COVID%20Project(1).ipynb)
 - This is an exploratory project that I did on my own that was not part of any school project
 
