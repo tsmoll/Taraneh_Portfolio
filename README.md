@@ -7,3 +7,6 @@
 - This is a project where I removed the stopwords
 
 ![](https://user-images.githubusercontent.com/94031518/199312719-ec219fbf-cd20-4253-aa70-c9e2e74b362f.png)
+
+# [Exploratory Data Analysis of COVID](https://github.com/tsmoll/Covid-eda/blob/main/COVID%20Project(1).ipynb)
+- This is an exploratory project that I did on my own that was not part of any school project
