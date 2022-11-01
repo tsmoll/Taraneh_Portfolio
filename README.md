@@ -10,3 +10,6 @@
 
 # [Exploratory Data Analysis of COVID](https://github.com/tsmoll/Covid-eda/blob/main/COVID%20Project(1).ipynb)
 - This is an exploratory project that I did on my own that was not part of any school project
+
+![](https://user-images.githubusercontent.com/94031518/199320540-cee8c0ef-321a-443f-a03d-4c9fb9e65943.png)
+
