@@ -3,7 +3,7 @@
 # [Project 1 Titanic Project](https://github.com/tsmoll/Lesson-3-Hands-On-/blob/main/Lesson%203%20Hands%20On%20Taraneh.ipynb)
 - This is a beginner project that I worked on during my Data Science Course work
 
-# [Project 2 Diamonds Project]
+# [Project 2 Diamonds Project](https://github.com/tsmoll/Diamonds/blob/main/Lesson%201%20Hands%20On.ipynb)
 - This was another project that I did during my coursework
 
 # [Project 2 Alice in Wonderland](https://github.com/tsmoll/Lesson-5/blob/main/Lesson5%20Hands%20On.ipynb)
