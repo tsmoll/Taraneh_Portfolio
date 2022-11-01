@@ -19,6 +19,9 @@
 # [Project](https://github.com/tsmoll/Dogs/blob/main/main.py)
 - Basic Python Code about Naming dogs
 
+# [Data Analysis and Visualization using Tableau and Powerpoint](https://github.com/tsmoll/Lesson-10-Project)
+- This was an analysis of car crashes and weather
+
 # [Programming Project in Python](https://github.com/tsmoll/Program-in-Python/blob/main/main.py)
 # [Part 2 of Programming Project in Python](https://github.com/tsmoll/Program-in-Python/blob/main/Lesson%2010%20Hands%20On.py)
 
